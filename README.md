@@ -1,4 +1,4 @@
-# Informe de Proyecto N°2
+# Informe de Proyecto N°3
 
 Titulo: Interruptor controlado por luz (LDR y 741)
 
